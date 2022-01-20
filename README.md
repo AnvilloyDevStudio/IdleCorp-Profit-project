@@ -1,5 +1,5 @@
 # IdleCorp-Profit-project-files
-There are some files related to the IdleCorp Profit project
+There are some [files](/Calculation/) related to the IdleCorp Profit project
 
 The folders include the files which RARs are containing for the individual version.
 The release note:
