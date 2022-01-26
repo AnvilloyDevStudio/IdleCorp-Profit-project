@@ -1,5 +1,5 @@
-# IdleCorp-Profit-project-files
-## Calculation
+# The IdleCorp-Profit-Project
+## Calculation files
 There are some [files](/Calculation/) related to the IdleCorp Profit project
 
 The folders include the files which RARs are containing for the individual version.
@@ -19,3 +19,7 @@ The release note:
 -----------
 ## Terms
 For the [Terms](</Terms Of Service/>), these terms are available while you are using the service (including Discord Server).
+
+-----------
+## Patreon (Donation)
+If you want to donate and support what I have done on these projects or contribute for current and future, you could donate me by https://www.patreon.com/benforge0022 although there is no bonus...
