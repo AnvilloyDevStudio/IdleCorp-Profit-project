@@ -1,4 +1,4 @@
-# The IdleCorp-Profit-Project
+# The IdleCorp Profit Project
 ## Calculation files
 There are some [files](/Calculation/) related to the IdleCorp Profit project
 
