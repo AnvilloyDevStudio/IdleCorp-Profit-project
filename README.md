@@ -1,4 +1,10 @@
 # The IdleCorp Profit Project
+
+> ![IMPORTANT]
+> This whole project, the IdleCorp Profit Profit, founded by me, has been formally completely
+> archived by 2024/10/12 (UTC). For more details, you may head to the
+> [main repository](https://github.com/AnvilloyDevStudio/IdleCorp-Profit-Bot).
+
 ## Calculation files
 There are some [files](/Calculation/) related to the IdleCorp Profit project
 
